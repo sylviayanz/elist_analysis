@@ -18,3 +18,23 @@ Elist has a core dataset consisting of orders, order statuses, customers, produc
 ## Product Trends
 ## Loyalty Program
 ## Refund Rates
+
+## Regional Analysis
+
+###Regional Revenue Distribution and Order Patterns:
+
+-North America dominates revenue generation, with the United States accounting for 47.3% of total sales and approximately half of order volume
+While APAC shows lower order frequency, the region demonstrates higher average order values.
+-Sales concentration analysis reveals that the top 10 markets constitute 78% of total revenue, with the top 3 markets commanding 58% of sales.
+
+###Pandemic Impact and Recovery (2019-2022):
+
+-2020 witnessed significant growth across all regions, with North America and Latin America recording 200% year-over-year increases from 2019
+Post-pandemic normalization occurred in 2021, followed by a more pronounced adjustment in 2022, effectively returning to pre-pandemic baseline levels.
+
+###Seasonal Trends in Monthly Growth Rates:
+
+-Consistent seasonal patterns observed across all regions
+-Notable troughs in October and February
+-Peak performance in March, September, November, and December
+-Nov and Dec demonstrates particularly strong sales momentum, driven by holiday season demand
