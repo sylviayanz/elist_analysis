@@ -73,7 +73,6 @@ From 2019 to 2022, Elist generated **$28M in total revenue across 108K orders**,
  
  
 # Recommendations
-
   **Sales Team:**
  -   **Focus core resources on maintaining growth in top 10 countries** (78% of total revenue) to secure stable revenue stream.
  -    **Explore growth opportunities in APAC region** - despite lower sales volume, their **high AOV (Japan $393 vs global $260)** indicates significant untapped potential.
@@ -83,20 +82,17 @@ From 2019 to 2022, Elist generated **$28M in total revenue across 108K orders**,
 
 **Product Team:**
 
- -   Focus on optimizing and expanding the top 3 products that generate 85% of revenue to maintain market leadership.
- -   Review iPhone and Bose Soundsport Headphones positioning - both show revenue share below 1% with low order volumes.
- -   Expand accessories product line based on Samsung Charging Cable Pack's success (high order volume despite low revenue), with emphasis on identifying higher-margin alternatives.
- -  Identify and introduce more Apple-compatible accessories and complementary products to leverage our strong Apple product sales base (45-50% of revenue).
+ -   Focus on **optimizing and expanding the top 3 products** that generate 85% of revenue to maintain market leadership.
+ -   **Review iPhone and Bose Soundsport Headphones positioning** - both show revenue share below 1% with low order volumes.
+ -   **Expand accessories product line** based on Samsung Charging Cable Pack's success (high order volume despite low revenue), with emphasis on identifying higher-margin alternatives.
+ -  **Identify and introduce more Apple-compatible accessories and complementary products** to leverage our strong Apple product sales base (45-50% of revenue).
 
  **Marketing Team:**
    
-   -   Develop targeted marketing campaigns for top 10 countries (78% of revenue), with customized strategies for each region.
-   -   Create region-specific promotions for February and October to address seasonal sales dips.
+   -   Develop targeted marketing campaigns for **top 10 countries** (78% of revenue), with customized strategies for each region.
+   -   Create **region-specific promotions** for February and October to address seasonal sales dips.
 
 **Customer Experience & Loyalty Program Team:**
 
--   Enhance loyalty program benefits to maintain current loyal customer advantage, as data indicates narrowing performance gap between loyal and non-loyal segments.
--   Leverage loyal customers' shorter time-to-purchase pattern by creating time-sensitive exclusive offers.
-
-
-
+-   **Enhance loyalty program benefits** to maintain current loyal customer advantage, as data indicates narrowing performance gap between loyal and non-loyal segments.
+-   **Leverage loyal customers' shorter time-to-purchase pattern** by creating time-sensitive exclusive offers.
