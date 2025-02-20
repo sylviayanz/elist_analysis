@@ -80,6 +80,18 @@ From 2019 to 2022, Elist generated **$28M in total revenue across 108K orders**,
   - Loyal customers demonstrated superior purchasing behavior, making purchase decisions on average 20 days faster than non-loyal customers.
 
 
+## Marketing Channel Performance
+
+ - **78% Orders from Direct Channel:**
+   -   Website acts as the primary platform, demonstrating strong direct-to-consumer strategy in customer acquisition and conversion.
+  
+ -  **Affiliate with Highest AOV $303:**
+    -   Despite low order volume, affiliate partnerships successfully target high-value customers, indicating growth potential.
+   
+ - **17% Orders from Email with Lowest AOV $181:**
+   - Email marketing generates 17% of orders but shows room for improvement with an AOV of $181, falling notably below the overall average.
+
+
 ## Global Reach
 
 <img width="1452" alt="Screenshot 2025-02-19 at 5 01 11 PM" src="https://github.com/user-attachments/assets/a9fdf091-24f7-40ac-bba9-0e6ec44718b9" />
@@ -111,6 +123,8 @@ From 2019 to 2022, Elist generated **$28M in total revenue across 108K orders**,
    
    -   Develop targeted marketing campaigns for **top 10 countries** (78% of revenue), with customized strategies for each region.
    -   Create **region-specific promotions** for February and October to address seasonal sales dips.
+   -   Strengthen affiliate partnership program with **higher commission rates**, given their superior AOV ($303), while optimizing email marketing campaigns to **increase AOV.**
+
 
 **Customer Experience & Loyalty Program Team:**
 
