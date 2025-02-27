@@ -77,32 +77,49 @@ From 2019 to 2022, EverMarket generated **$28M in total revenue across 108K orde
 
 ## Loyalty Program Performance
 
-<a href="https://github.com/user-attachments/assets/b7146351-052d-4a79-8f8c-d6230f71337b" target="_blank">
-  <img width="500" alt="Screenshot 2025-02-19 at 4 44 02 PM" src="https://github.com/user-attachments/assets/b7146351-052d-4a79-8f8c-d6230f71337b" />
-</a>
+
+<div align="center">
+  <table>
+    <tr>
+      <td style="width:60%"><img width="100%" alt="First chart" src="https://github.com/user-attachments/assets/acc2eb1b-8f10-4196-9f61-14ca21bf7c4b"/></td>
+      <td style="width:40%"><img width="100%" alt="Second chart" src="https://github.com/user-attachments/assets/f2569040-ffa0-4bfe-b490-d0d582ec8c50"/></td>
+    </tr>
+  </table>
+</div>
+
 
  - **2021 Loyalty Sales Milestone:** 
 	 - **Loyal customer sales surpassed non-loyal sales in 2021**, with both AOV and order value exceeding non-loyal customers for the first time, marking a significant shift in revenue patterns. However, data from late 2022 indicates another potential trend reversal, warranting continued monitoring.
 	 
 - **Loyal Customer Purchasing Efficiency:**
-  - Loyal customers demonstrated superior purchasing behavior, making purchase decisions on average 20 days faster than non-loyal customers.
+  - Loyal customers demonstrated superior decision-making efficiency, completing their purchase journey on average 20 days faster than non-loyal customers (49 days vs. 70 days).
 
 
 ## Marketing Channel Performance
+   <img width="1187" alt="Screenshot 2025-02-27 at 2 35 54 PM" src="https://github.com/user-attachments/assets/ff9d2376-852f-47ac-aa29-fa5e79d531b5" />
 
- - **78% Orders from Direct Channel:**
-   -   Website acts as the primary platform, demonstrating strong direct-to-consumer strategy in customer acquisition and conversion.
+
+ - **Direct Channel Dominates with 78% of Orders:**
+   -   Website serves as the primary sales platform, reflecting a successful direct-to-consumer distribution strategy.
   
  -  **Affiliate with Highest AOV $303:**
-    -   Despite low order volume, affiliate partnerships successfully target high-value customers, indicating growth potential.
+    -   Though generating lower order volume, affiliate channels successfully target high-value customers, presenting significant growth potential worth investing in.
+
    
  - **17% Orders from Email with Lowest AOV $181:**
-   - Email marketing generates 17% of orders but shows room for improvement with an AOV of $181, falling notably below the overall average.
-
+   - While email campaigns drive a substantial portion of orders, the below-average transaction value indicates opportunity to refine targeting and offer strategies.
 
 ## Global Reach
 
-<img width="1452" alt="Screenshot 2025-02-19 at 5 01 11 PM" src="https://github.com/user-attachments/assets/a9fdf091-24f7-40ac-bba9-0e6ec44718b9" />
+<div align="center">
+  <table>
+    <tr>
+      <td style="width:50%"><img width="100%" alt="First chart" src="https://github.com/user-attachments/assets/caf60c29-be53-48f6-924e-25838f501f67"/></td>
+      <td style="width:50%"><img width="100%" alt="Second chart" src="https://github.com/user-attachments/assets/31d9ce62-7ed3-4011-8fe4-ac7de51112cf"/></td>
+    </tr>
+  </table>
+</div>
+
 
 
  - **50% Revenue from North America:**
@@ -117,7 +134,6 @@ From 2019 to 2022, EverMarket generated **$28M in total revenue across 108K orde
  -   **Focus core resources on maintaining growth in top 10 countries** (78% of total revenue) to secure stable revenue stream.
  -    **Explore growth opportunities in APAC region** - despite lower sales volume, their **high AOV (Japan $393 vs global $260)** indicates significant untapped potential.
  -    Consider **bundling low margin but high-volume accessories** (like Samsung Charging Cable Pack) with higher-margin products to increase overall transaction value.
-   
    
 
 **Product Team:**
