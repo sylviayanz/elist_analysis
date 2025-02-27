@@ -7,8 +7,13 @@ The company operates through an omnichannel distribution strategy, leveraging bo
 
 
 # Data Structure & Initial Checks
-Elist has a core dataset consisting of orders, order statuses, customers, products, and geographic information
-<img width="938" alt="Elist ERD" src="https://github.com/user-attachments/assets/7932706c-3570-482f-bb57-752b19bd9dfc" />
+EverMarket has a core dataset consisting of orders, order statuses, customers, products, and geographic information, with a total row count of 108,127 records.
+
+The Entity Relationship Diagram can be found  [here]().
+
+The data cleaning change log can be found [here]().
+
+The SQL queries performed to uncover these insights can be found [here](https://github.com/sylviayanz/elist_analysis/blob/main/SQL_Queries.sql).
 
 
 # Executive Summary
